@@ -1,4 +1,4 @@
-# Email Spam filter
+# Project 5 - Email Spam filter
 This project was part of the exam for the course <b><i>Intelligent Data Analysis and ML 1</i></b>. This project helped me understand how to work on dataset, perform data wrangling on the dataset, explored various machine learning models, understand the working of the algorithms, optimize the ML models and to validate the results. 
 
 ## Problem Setting
